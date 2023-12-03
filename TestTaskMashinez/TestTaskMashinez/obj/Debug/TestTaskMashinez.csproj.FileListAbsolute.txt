@@ -1,0 +1,7 @@
+C:\Users\cubhu\source\repos\TestTaskMashinez\TestTaskMashinez\bin\Debug\TestTaskMashinez.exe.config
+C:\Users\cubhu\source\repos\TestTaskMashinez\TestTaskMashinez\bin\Debug\TestTaskMashinez.exe
+C:\Users\cubhu\source\repos\TestTaskMashinez\TestTaskMashinez\bin\Debug\TestTaskMashinez.pdb
+C:\Users\cubhu\source\repos\TestTaskMashinez\TestTaskMashinez\obj\Debug\TestTaskMashinez.csproj.AssemblyReference.cache
+C:\Users\cubhu\source\repos\TestTaskMashinez\TestTaskMashinez\obj\Debug\TestTaskMashinez.csproj.CoreCompileInputs.cache
+C:\Users\cubhu\source\repos\TestTaskMashinez\TestTaskMashinez\obj\Debug\TestTaskMashinez.exe
+C:\Users\cubhu\source\repos\TestTaskMashinez\TestTaskMashinez\obj\Debug\TestTaskMashinez.pdb
